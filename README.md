@@ -5,6 +5,8 @@ This project has been completed as part of the [Udacity's Data Analyst Nanodegre
 In this project tweet data from the popular [WeRateDogs](https://twitter.com/dog_rates) twitter account are gathered, assessed, cleaned, analyzed and visualized.
 
 The main effort in this project was to gather, assess and clean the data.
+A summary of the findings can be found in the two pdf files in the repository.
+Detailed analysis is provided in the jupyter notebook file (.ipynb) in the repository.
 
 ### Data gathering
 Data for the tweets are gathered from:
@@ -42,4 +44,8 @@ Between the cleaning steps, re-assessment of the data has been performed.
 ### Data Analysis and Visualization
 After cleaning the data, analysis and visualization is performed, in order to gain insights regarding the tweets and the twitter account.
 
+## Technologies used
 
+- Python
+- Libraries: Pandas, NumPy, Tweepy, Requests, OS, JSON, GLOB, Image, BytesIO, MatPlotlib, Seaborn
+- Jupyter Notebook
