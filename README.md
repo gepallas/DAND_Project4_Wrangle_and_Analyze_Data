@@ -49,3 +49,11 @@ After cleaning the data, analysis and visualization is performed, in order to ga
 - Python
 - Libraries: Pandas, NumPy, Tweepy, Requests, OS, JSON, GLOB, Image, BytesIO, MatPlotlib, Seaborn
 - Jupyter Notebook
+
+## Snapshot from the analysis
+
+The following Figure shows the popularity of the tweets over time.
+Specifically, it shows the 10-day moving average of the number of retweets and favorites from November 2015 to August 2017 (the number of retweets and favorites has been gathered through the use of the twitter API).
+
+![png](./images/10dayMA_retweets_favorites_2.png)
+
