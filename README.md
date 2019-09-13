@@ -1,4 +1,4 @@
-# Wrangle and Analyze Data
+# Wrangle and Analyze Twitter Data
 This project has been completed as part of the [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) requirements.
 
 ## Overview
